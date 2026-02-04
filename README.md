@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # vanashree
 
 A new Flutter project.
@@ -15,7 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
+
 # Vanashree-
 Vanashree App is a community support and safety platform developed for Vanashree Gramvikas Pratishthan. It enables people to report emergencies, support animal rescue, share resources, volunteer, and donate responsibly. Built by people for people, with strong focus on safety, privacy, and public interest.
->>>>>>> fa91e5e2b4725cb513e46c2ce7834d27fd0446d9
+
