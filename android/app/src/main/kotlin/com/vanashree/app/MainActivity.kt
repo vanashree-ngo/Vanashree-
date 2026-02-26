@@ -1,4 +1,4 @@
-package com.example.vanashree
+package com.vanashree.app
 
 import io.flutter.embedding.android.FlutterActivity
 
